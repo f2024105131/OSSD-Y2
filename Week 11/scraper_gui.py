@@ -39,11 +39,4 @@ textarea.pack(pady=20)
 
 
 
-
 root.mainloop()
-
-
-
-
-
-
